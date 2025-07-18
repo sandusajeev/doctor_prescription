@@ -1,1 +1,1 @@
-export const BASE_URL = "http://localhost:4005"
+export const BASE_URL = "https://doctor-prescription-be.onrender.com"
